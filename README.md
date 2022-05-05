@@ -1,6 +1,7 @@
-<h1>Hello World! 🖖 I´m Leticia Chaves</h1>
+<h1>Hello World! I´m Leticia Chaves 🖖</h1>
 
 <div>
+         <h2>About me</h2>
          <span> - 💻 I’m currently working on ... Web design and design </span><br>
          <span>- 📚 I’m currently learning ... Web design, Game development and 3d</span><br>
         <span> - 🕹️ I’m looking to collaborate on ... 👾 Game development, game design and 3D</span>
@@ -9,14 +10,34 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons&theme=blueberry&border_radius=none&border-style=none"/>
 </div>
 
-<div>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+
+
+##
+<div display="block">
+         <h2>Contact:</h2>
+         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+         <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+         <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
 </div>
+
 <!--
+
+<div display="block">
+         <h2>Tools:</h2>
+         <img src="![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)"/>
+         <img src="![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)"/>
+         <img src="![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)"/>
+         <img src="![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)"/>
+         <img src="![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)"/>
+         <img src="![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)"/>
+         <img src="![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)"/>
+</div>
+
+
+
+
 **lepleen/Lepleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
