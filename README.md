@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hello World! 🖖
 
 
-- 🔭 I’m currently working on ... Web design and design 
-- 🌱 I’m currently learning ... Web design, Game development and 3d
-- 👯 I’m looking to collaborate on ...Game development, game design and 3D
-- 📫 How to reach me: 
-Contact: <br>leticiachavescs@gmail.com <br>
+- 💻 I’m currently working on ... Web design and design 
+- 📚 I’m currently learning ... Web design, Game development and 3d
+- 🕹️ I’m looking to collaborate on ... 👾 Game development, game design and 3D
+- 💬 How to reach me: 
+         Contact: 
+         <br>leticiachavescs@gmail.com <br>
          https://www.behance.net/Lepleen<br>
          https://www.instagram.com/lepleen/?hl=en
 
@@ -16,8 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Web design and design 
 - 🌱 I’m currently learning ... Web design, Game development and 3d
-- 👯 I’m looking to collaborate on ...Game development, game design and 3D
-- 📫 How to reach me: 
+- 🕹️ I’m looking to collaborate on ...Game development, game design and 3D
+- 💬 How to reach me: 
 Contact: leticiachavescs@gmail.com
          https://www.behance.net/Lepleen
          https://www.instagram.com/lepleen/?hl=en
