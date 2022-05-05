@@ -1,22 +1,21 @@
-### Hello World! 🖖
+<h1>Hello World! 🖖 I´m Leticia Chaves</h1>
 
+<div>
+         <span> - 💻 I’m currently working on ... Web design and design </span><br>
+         <span>- 📚 I’m currently learning ... Web design, Game development and 3d</span><br>
+        <span> - 🕹️ I’m looking to collaborate on ... 👾 Game development, game design and 3D</span>
+</div>
+<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons&theme=blueberry&border_radius=none&border-style=none"/>
+</div>
 
-- 💻 I’m currently working on ... Web design and design 
-- 📚 I’m currently learning ... Web design, Game development and 3d
-- 🕹️ I’m looking to collaborate on ... 👾 Game development, game design and 3D
-- 💬 How to reach me: 
-         Contact: 
-         <br>leticiachavescs@gmail.com <br>
-         https://www.behance.net/Lepleen<br>
-         https://www.instagram.com/lepleen/?hl=en
-         
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons&theme=blueberry"/>
+<div>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
-
+</div>
 <!--
 **lepleen/Lepleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,8 +29,6 @@ Contact: leticiachavescs@gmail.com
          https://www.behance.net/Lepleen
          https://www.instagram.com/lepleen/?hl=en
 - ⚡ Fun fact: ...
-
-
 
 Links uteis para depois
 https://github.com/anuraghazra/github-readme-stats
