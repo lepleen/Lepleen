@@ -7,9 +7,24 @@
         <span> - 🕹️ I’m looking to collaborate on ... 👾 Game development, game design and 3D</span>
 </div>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons&theme=blueberry&border_radius=none&border-style=none"/>
-<img aling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img height="190px" padding-right="0px" align="left" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons&theme=blueberry&border_radius=none&border-style=none"/>
+<img  height="190px" margin-top="0px" aling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blueberry&&border_radius=none&"/>
 
+</div>
+
+<div display="block">
+         <h2>Tools:</h2>
+         <img  height="20px" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the badge&logo=Adobe%20after%20effects&logoColor=393665" />
+         <img height="20px" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+         <img height="20px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+         <img height="20px" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+         <img height="20px" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+         <img height="20px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+         <img height="20px" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
+         <img height="20px" src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"/>
+        
+
+         
 </div>
 
 <div display="inline">
@@ -22,7 +37,19 @@
          <a href="https://www.linkedin.com/in/lepleen/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
 
+
+
+
+
 <!--
+
+ <img src=""/>
+         <img src=""/>
+         <img src=""/>
+         <img src=""/>
+         <img src=""/>
+         <img src=""/>
+         <img src=""/>
 
 <div display="block">
          <h2>Tools:</h2>
