@@ -7,8 +7,8 @@
         <span> - 🕹️ I’m looking to collaborate on ... 👾 Game development, game design and 3D</span>
 </div>
          <br>
-         <img height="190px" padding-right="0px" margin-bottom="0px" align="left" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons=true&theme=blueberry&border_radius=none&border-style=none"/>
-         <img  height="190px" margin-top="0px" margin-bottom="0px" aling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blueberry&&border_radius=none&"/>
+         <img height="50%" padding-right="0px" margin-bottom="0px" align="left" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons=true&theme=blueberry&border_radius=none&border-style=none"/>
+         <img  height="50%" margin-top="0px" margin-bottom="0px" aling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=blueberry&&border_radius=none&"/>
 
 </div>
 
