@@ -10,7 +10,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons&theme=blueberry&border_radius=none&border-style=none"/>
 </div>
 
-<div display="block">
+<div display="inline">
          <h2>Contact:</h2>
          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
          <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
