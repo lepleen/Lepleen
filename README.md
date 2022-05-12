@@ -8,13 +8,13 @@
 </div>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons&theme=blueberry&border_radius=none&border-style=none"/>
-<img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+<img aling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
 </div>
 
 <div display="inline">
          <h2>Contact:</h2>
-       <a href="leticiachavescs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+       <a href="[Lepleen](mailto:leticiachavescs@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
          <a href="https://www.behance.net/Lepleen"></a><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"/></a>
          <a href="https://www.instagram.com/lepleen/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
          <a href="https://www.linkedin.com/in/lepleen/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
