@@ -9,8 +9,8 @@
 
 <div align="left">
          <br>
-         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lepleen&layout=compact&theme=blueberry&&include_all_commits=true&count_private=true"/>
+         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lepleen&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lepleen&layout=compact&theme=blueberry&&include_all_commits=true&count_private=true"/>
 </div>
       
 
