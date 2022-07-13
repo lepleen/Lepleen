@@ -1,15 +1,15 @@
 
 <h1>Leticia Chaves 🖖</h1> 
 
-![](https://komarev.com/ghpvc/?username=lepleen&style=flat-square) 👩‍ 💻 🐈 🕹️
 
-Uma designer curiosa  que sempre conviveu com tecnologia, mas apostou na arte como sentido da vida, sou apaixonada por historias e experiencias diferentes, adoro video games, aprender e observar o mundo ao meu redor as realidades diferentes da minha, fique a  vontade para explorar, pois eu sempre estou explorando tambem.
 <!--//https://readme-typing-svg.herokuapp.com/demo/  -->
 <!--web design  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubunto&color=F7314F&Left=true&vCenter=true&width=150&height=100&lines=Web+design+|+&duration=5000s&delay=0.3s)](https://git.io/typing-svg)<!--Game -->[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubunto&color=8BDC00&left=true&vCenter=true&width=80&height=100&lines=Game+|+&duration=5000s&delay=0.3s)](https://git.io/typing-svg)<!-- Ui/ux  -->[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubunto&color=2890ff&Left=true&vCenter=true&width=150&height=100&lines=UI%2FUX&duration=5000s&delay=0.3s)](https://git.io/typing-svg)
 
 
+![](https://komarev.com/ghpvc/?username=lepleen&style=flat-square) 👩‍ 💻 🐈 🕹️
 
+Uma designer curiosa  que sempre conviveu com tecnologia, mas apostou na arte como sentido da vida, sou apaixonada por historias e experiencias diferentes, adoro video games, aprender e observar o mundo ao meu redor as realidades diferentes da minha, fique a  vontade para explorar, pois eu sempre estou explorando tambem.
 
 
 <div>
